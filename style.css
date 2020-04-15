@@ -95,3 +95,12 @@ section.landing {
 .bottom40 {
   padding-bottom: 40px;
 }
+
+pre {
+  white-space: pre-wrap;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
