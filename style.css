@@ -104,3 +104,9 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+.btn-pq {
+  max-width: 350px;
+}
+
+.btn-pq a { padding: 5px; }
